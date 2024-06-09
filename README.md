@@ -1,6 +1,6 @@
-# Welcome to Crypto Project!
+# Welcome to the Crypto Project!
 
-First of all, this project aims to show a sample of the habilities in web scraping and APIs with **BS4** and **Requests**, for operation optimization it was used **OS**. The goal is not only data scraping but understand the **Fluctuation Patterns** how the fluctuation varies accross time to back-up investment decisions with **Data Analysis** and **Sentimental Analysis**. Also firsts step experiments with **SKLearn**, **ARIMA** and **Auto-Arima**.The data was cleaned and formatted with **Pandas**, and **Matplotlib** was used for vizualization. Hypothesis:
+First of all, this project aims to show a sample of the abilities in web scraping and APIs with **BS4** and **Requests**, for operation optimization it was used **OS**. The goal is not only data scraping but understanding the **Fluctuation Patterns** and how the fluctuation varies across time to back-up investment decisions with **Data Analysis** and **Sentimental Analysis**. Also first step experiments with **SKLearn**, **ARIMA** and **Auto-Arima**.The data was cleaned and formatted with **Pandas**, and **Matplotlib** was used for visualization. Hypothesis:
 
 - Some weekdays, more than others, mark the weekly peak and bottom occurrences.
 
@@ -11,13 +11,13 @@ First of all, this project aims to show a sample of the habilities in web scrapi
 
 # Data Sources
 
--	**Webscraping**
+- **Webscraping**
 
-	We used FINANCE.YAHOO.COM to get data - we were searching for a specific block of information named “candle” - and through this website we were able to find data from 2014 until the present date.
+We used FINANCE.YAHOO.COM to get data - we were searching for a specific block of information named “candle” - and through this website we were able to find data from 2014 until the present date.
 
--	**API**
+- **API**
 
-	After trying NEWS API and failing because it only retrieved 1 month old news, we tried to use GoogleNews, but we soon reached the limit of the free plan. We had success using NEWS API by MatcherLabs.
+After trying the NEWS API and failing because it only retrieved 1 month old news, we tried to use GoogleNews, but we soon reached the limit of the free plan. We had success using the NEWS API by MatcherLabs.
 	
 ## Study 1
 
